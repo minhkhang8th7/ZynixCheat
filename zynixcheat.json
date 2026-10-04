@@ -1,0 +1,26 @@
+[
+  {
+    "projectID": "E621E1F8-C36C-495A-93FC-0C247A3E6E5F",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "zynixcheatios",
+      "zynixcheat"
+    ]
+  },
+  {
+    "projectID": "A818F2E2-1C2D-4B41-8F3E-1C8845A2F2A1",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/Assembly-CSharp-patch.bytes",
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "zynixcheatios",
+      "zynixcheat"
+    ]
+  }
+]
