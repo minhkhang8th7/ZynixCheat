@@ -13,7 +13,7 @@
   "EspDistance": false,
   "EspFov": false,
   "EspHealth": false,
-  "EspLine": false,
+  "EspLine": true,
   "EspName": false,
   "EspSkeleton": false,
   "EspTracer": true,
