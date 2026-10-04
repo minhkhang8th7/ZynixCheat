@@ -5,7 +5,7 @@
   "server_esp": true,
   "server_headshot": true,
   "server_health": true,
-  "server_line": true,
+  "server_line": false,
   "server_name": true,
   "server_skeleton": true,
   "EspMaster": true,
