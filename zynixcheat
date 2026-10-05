@@ -28,5 +28,6 @@
   "token": "6b98c7466c114ca372f5b09d9cbd4cf8",
   "sig": "4a570bb5a2484c0e57d8a5cb06ff381d",
   "ZynixCheat": "3a3f0eb668bc25362811fd1f75a43e17",
-  "ts": 1791036737
+  "ts": 1791036737,
+  "resetGuest": true
 }
