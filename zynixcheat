@@ -27,7 +27,7 @@
   "FastParachute": false,
   "GhostMode": false,
   "SpeedHack": 1,
-  "CamXa": true,
+  "CamXa": false,
   "CamXaFloat": 1,
   "ShowGuestBtn": false,
   "resetGuest": false,
