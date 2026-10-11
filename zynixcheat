@@ -35,8 +35,8 @@
   "resetGuestBeforeLogin": false,
   "system_active": true,
   "testCodePatch": true,
-  "token": "7a6331466c114ca3b89e8cd5b2df7206",
-  "sig": "3f67c259de15b50fb5a0e68546ab0963",
-  "zynixcheat": "26ef59705f5f8dfebd857659c62d884a",
-  "ts": 1791556340
+  "token": "f38fa1466c114ca35f20594214e50247",
+  "sig": "090d7eccc3ac86b8880c4bb0750810b7",
+  "zynixcheat": "4e8aeec89acd959a6b3547bb0ce1746d",
+  "ts": 1791692985
 }
